@@ -1,0 +1,12 @@
+Saya ingin membuat sebuah program sistem yang mendukung operasional kafetaria IT Del  yang dijalankan melalui CMD. program ini bertujuan untuk menghitung total belanja pelanggan 
+
+alurnya 
+
+memilih menu dan harganya 
+
+inputnya jumlah item yang dibeli (N)
+
+program menghitung total harga keseluruhan
+program menampilkan total yang harus dibayar 
+
+berikan saya kode lengkap menggunakan fungsi main saja, tanpa struktur data kompleks

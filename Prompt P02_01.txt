@@ -1,0 +1,30 @@
+Saya ingin membuat sebuah program pengiriman Del-Express menggunakan bahasa C yang dijalankan di terminal (CMD) visual studio code. Program cukup menggunakan fungsi utama(main) dan langsung menghasilkan kode lengkap yang bisa dijalankan.
+
+Alur programnya seperti si pelanggan melihat papan besar berisi daftar ongkos kirim per kilogram ke beberapa kota tujuan yaitu
+MDN Medan 8000/kg Dalam pulau
+BLG Balige 5000/kg Dalam Pulau
+JKT Jakarta 12000/kg Luar Pulau
+SBY Surabaya 13.000/kg Luar Pulau
+
+tidak lama kemudian ada juga poster promo yaitu
+syarat : total berat pengiriman lebih dari 10kg
+promo yang di dapat : Diskon ongkir sebesar 10%
+
+Syarat : Pengiriman ke kota luar pulau 
+promo yang didapat : mendapatkan asuransi gratis
+
+lalu petugas Del-Express kemudian menjelaskan bahwa sistem pengiriman mereka bekerja secara otomatis. Petugas hanya perlu memasukkan kode kota tujuan
+
+adapun output Struk Pembayaran yang terdiri dari: Kota tujuan, Berat paket, Total berat, Total ongkos kirim, Informasi promo yang diperoleh
+
+contoh input
+MDN
+5
+JKT
+3
+BLG
+4
+END
+
+gunakan input standart seperti scanf , dan jangan menggunakan fgets maupun getchar.
+Tidak perlu menggunakan struktur data yang kompleks

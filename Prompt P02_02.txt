@@ -1,0 +1,15 @@
+Saya ingin membuat sebuah program menentukan total stok hanya untuk kategori barang yang diminta menggunakan bahasa C yang dijalankan di terminal (CMD) visual studio code. Program cukup menggunakan fungsi utama(main) dan langsung menghasilkan kode lengkap yang bisa dijalankan.
+
+adapun alurnya 
+1.  Jumlah total data (N)
+2. Deret stok (s1, s2, ..., sN).
+3. Kode kategori barang.
+
+adapun barangnya yaitu 
+22pcs Dasi SD
+85pcs Gula
+5pcs Rok Pramuka
+120pcs Minyak
+
+gunakan input standart seperti scanf, dan jangan menggunakan fgets maupun getchar.
+Tidak perlu menggunakn struktur data yang kompleks
